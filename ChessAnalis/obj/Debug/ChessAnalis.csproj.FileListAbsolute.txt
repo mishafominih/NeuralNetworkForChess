@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ChessAnalis\ChessAnalis\bin\Debug\ChessAnalis.exe.config
+C:\Users\user\source\repos\ChessAnalis\ChessAnalis\bin\Debug\ChessAnalis.exe
+C:\Users\user\source\repos\ChessAnalis\ChessAnalis\bin\Debug\ChessAnalis.pdb
+C:\Users\user\source\repos\ChessAnalis\ChessAnalis\obj\Debug\ChessAnalis.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ChessAnalis\ChessAnalis\obj\Debug\ChessAnalis.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ChessAnalis\ChessAnalis\obj\Debug\ChessAnalis.exe
+C:\Users\user\source\repos\ChessAnalis\ChessAnalis\obj\Debug\ChessAnalis.pdb
