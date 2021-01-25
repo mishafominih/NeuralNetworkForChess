@@ -48,7 +48,10 @@
     <Compile Include="Game.cs" />
     <Compile Include="Horse.cs" />
     <Compile Include="King.cs" />
+    <Compile Include="Layer.cs" />
     <Compile Include="Map.cs" />
+    <Compile Include="Neuron.cs" />
+    <Compile Include="NeuronNetwork.cs" />
     <Compile Include="Officer.cs" />
     <Compile Include="Pawn.cs" />
     <Compile Include="Program.cs" />

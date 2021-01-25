@@ -11,7 +11,7 @@ namespace chassAnaliz
 
         public bool IsWhite { get; private set; }
 
-        public int Cast { get => -5; }
+        public int Cast { get => 3; }
 
         public bool first = true;
 

@@ -24,5 +24,15 @@ namespace chassAnaliz
             Position = new Point(NextX, NextY);
             RandomNumber = n;
         }
+
+        public override bool Equals(object obj)
+        {
+            if(obj is Step)
+            {
+                var step = (Step)obj;
+                return step.PreviousPosition == PreviousPosition && step.Position == Position;
+            }
+            return false;
+        }
     }
 }

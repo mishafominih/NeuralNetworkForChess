@@ -14,7 +14,7 @@ namespace chassAnaliz
 
         private bool first = true;
 
-        public int Cast => -10;
+        public int Cast => 5;
 
         public King(int i, int j, bool b, bool f)
         {

@@ -12,7 +12,7 @@ namespace chassAnaliz
 
         public bool IsWhite { get; private set; }
 
-        public int Cast => -3;
+        public int Cast => 2;
 
         public Officer(int i, int j, bool b)
         {

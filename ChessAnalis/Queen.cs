@@ -12,7 +12,7 @@ namespace chassAnaliz
 
         public bool IsWhite { get; private set; }
 
-        public int Cast => -8;
+        public int Cast => 4;
 
         public Queen(int i, int j, bool b)
         {

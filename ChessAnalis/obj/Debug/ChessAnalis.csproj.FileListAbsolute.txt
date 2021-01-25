@@ -5,3 +5,10 @@ C:\Users\user\source\repos\ChessAnalis\ChessAnalis\obj\Debug\ChessAnalis.csprojA
 C:\Users\user\source\repos\ChessAnalis\ChessAnalis\obj\Debug\ChessAnalis.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\ChessAnalis\ChessAnalis\obj\Debug\ChessAnalis.exe
 C:\Users\user\source\repos\ChessAnalis\ChessAnalis\obj\Debug\ChessAnalis.pdb
+C:\Users\user\NeuralNetworkForChess\NeuralNetworkForChess\ChessAnalis\bin\Debug\ChessAnalis.exe.config
+C:\Users\user\NeuralNetworkForChess\NeuralNetworkForChess\ChessAnalis\bin\Debug\ChessAnalis.exe
+C:\Users\user\NeuralNetworkForChess\NeuralNetworkForChess\ChessAnalis\bin\Debug\ChessAnalis.pdb
+C:\Users\user\NeuralNetworkForChess\NeuralNetworkForChess\ChessAnalis\obj\Debug\ChessAnalis.csprojAssemblyReference.cache
+C:\Users\user\NeuralNetworkForChess\NeuralNetworkForChess\ChessAnalis\obj\Debug\ChessAnalis.csproj.CoreCompileInputs.cache
+C:\Users\user\NeuralNetworkForChess\NeuralNetworkForChess\ChessAnalis\obj\Debug\ChessAnalis.exe
+C:\Users\user\NeuralNetworkForChess\NeuralNetworkForChess\ChessAnalis\obj\Debug\ChessAnalis.pdb

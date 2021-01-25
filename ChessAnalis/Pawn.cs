@@ -12,7 +12,7 @@ namespace chassAnaliz
 
         public bool IsWhite { get; private set; }
 
-        public int Cast => -1;
+        public int Cast => 0;
 
         private int dir;
 
